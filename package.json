@@ -18,6 +18,9 @@
   "main": "index.js",
   "type": "module",
   "devDependencies": {},
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
